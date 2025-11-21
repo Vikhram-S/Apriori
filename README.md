@@ -1,5 +1,8 @@
 # Apriori
-
+```
+Name : Vikhram S
+Reg No : 212222060295
+```
 ## AIM
 
 To implement the Apriori Algorithm in Python using the dataset for identifying frequent itemsets and generating strong association rules based on minimum support and confidence thresholds.
